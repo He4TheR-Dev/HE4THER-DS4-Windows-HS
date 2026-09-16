@@ -2,6 +2,8 @@
 
 > **Advanced custom edition** of official **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** â€” with an extra **macro window** built for FPS play.
 
+**Stack:** C# · .NET · WPF (not Java).
+
 This is **not** stock DS4Windows.  
 **HE4THER DS4 Windows HS** is a **much more pushed** custom build: same DS4Windows core, plus a dedicated macro UI designed for FPS-oriented controller macros, combos, and advanced input setups.
 
@@ -105,4 +107,5 @@ See [LICENSE](LICENSE) and [NOTICE](NOTICE).
   <b>Official DS4Windows core Â· HE4THER HS advanced cut</b><br/>
   Extra macro window. Built for FPS. Respect the original.
 </p>
+
 
