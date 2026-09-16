@@ -1,8 +1,10 @@
 # HE4THER DS4 Windows HS — C# / .NET (WPF) custom DS4Windows build.
-# Application ships as ZIP on GitHub Releases (not in git history).
-*.js linguist-vendored
-*.html linguist-vendored
+# Full app ships as ZIP on GitHub Releases (binaries not in git).
+
 *.cs linguist-language=C#
 *.csproj linguist-language=C#
-*.dll linguist-language=C#
-*.exe linguist-language=C#
+*.md linguist-documentation
+*.png linguist-documentation
+LICENSE linguist-documentation
+NOTICE linguist-documentation
+COPYRIGHT linguist-documentation
