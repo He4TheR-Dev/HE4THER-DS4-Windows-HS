@@ -1,7 +1,7 @@
 ﻿# HE4THER DS4 Windows HS
 
 <p align="center">
-  <img src="assets/heather-ds4windows-hs-preview.png" alt="HE4THER Services macro window preview" width="900"/>
+  <img src="assets/heather-ds4windows-hs-preview.png" alt="HE4THER Services macro window preview" width="560"/>
 </p>
 
 > **Advanced custom edition** of official **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** — with an extra **macro window** built for FPS play.
