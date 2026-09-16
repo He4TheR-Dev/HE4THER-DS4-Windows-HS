@@ -93,17 +93,19 @@ Always treat **Ryochan7/DS4Windows** as the reference for the original software,
 
 ## License
 
-**GNU GPL v3.0** â€” aligned with late official DS4Windows releases.
+**Copyright (c) 2026 HE4THER DEV (He4TheR-Dev)**
 
-See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+**GNU GPL v3.0** — aligned with late official DS4Windows releases.
+
+See [LICENSE](LICENSE), [NOTICE](NOTICE), and [COPYRIGHT](COPYRIGHT).
 
 ---
 
 ## Credits
 
-**DS4Windows** â€” Scarlet.Crush, Jays2Kings, Ryochan7 & contributors  
-**ViGEm** â€” Nefarius & contributors  
-**HE4THER HS edition** (macro window / advanced packaging) â€” [HE4THER DEV](https://github.com/He4TheR-Dev)
+**DS4Windows** — Scarlet.Crush, Jays2Kings, Ryochan7 & contributors  
+**ViGEm** — Nefarius & contributors  
+**HE4THER HS edition** (macro window / advanced packaging) — Copyright (c) 2026 [HE4THER DEV](https://github.com/He4TheR-Dev)
 
 ---
 

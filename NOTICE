@@ -1,33 +1,30 @@
-HE4THER DS4 Windows HS
-======================
+Copyright (c) 2026 HE4THER DEV (He4TheR-Dev)
+All rights reserved for HE4THER HS packaging, branding, macro UI distribution,
+and modifications in this repository, except where noted below.
 
-This project is an ADVANCED CUSTOM EDITION of official DS4Windows,
-with an additional macro window aimed at FPS-oriented controller macros.
+This project is an ADVANCED CUSTOM EDITION of official DS4Windows
+(with an additional macro window) and is licensed under the
+GNU General Public License v3.0 (see LICENSE).
 
 Upstream project (official):
   https://github.com/Ryochan7/DS4Windows
   Final upstream version referenced: 3.3.3
-  Status: archived by the original maintainer (read-only)
 
 Earlier lineage:
   https://github.com/Jays2Kings/DS4Windows
   Original roots: Scarlet.Crush Productions and contributors
 
-Copyright notices from DS4Windows.exe metadata include:
+Upstream copyright notices from DS4Windows.exe metadata include:
   Copyright Scarlet.Crush Productions 2012, 2013;
   InhexSTER, HecticSeptic, electrobrains 2013, 2014;
   Jays2Kings 2013, 2014, 2015, 2016;
   Ryochan7 2017-2023
 
-License:
-  GNU General Public License version 3 (GPL-3.0), consistent with
-  late official DS4Windows releases.
-
-HE4THER HS packaging / branding / macro UI distribution:
-  HE4THER DEV — https://github.com/He4TheR-Dev
+HE4THER copyright (this edition):
+  Copyright (c) 2026 HE4THER DEV — https://github.com/He4TheR-Dev
 
 Related lighter HE4THER package:
   https://github.com/He4TheR-Dev/HE4THER-DS4-Windows
 
-This project does not claim ownership of DS4Windows.
-All rights to the original software remain with their respective authors.
+This project does not claim ownership of the original DS4Windows codebase.
+Rights to upstream DS4Windows remain with their respective authors.
