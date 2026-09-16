@@ -9,11 +9,11 @@
 **Stack:** C# · .NET · WPF
 
 This is **not** stock DS4Windows.  
-**HE4THER DS4 Windows HS** is a **much more pushed** custom build: same DS4Windows core, plus a dedicated macro UI designed for FPS-oriented controller macros, combos, and advanced input setups.
+**HE4THER DS4 Windows HS** is a **much more advanced** custom build: same DS4Windows core, plus a dedicated macro UI designed for FPS-oriented controller macros, combos, and advanced input setups.
 
-We **respect the original project** â€” credits, license, and upstream lineage stay front and center.
+We **respect the original project** — credits, license, and upstream lineage stay front and center.
 
-Looking for the lighter HE4THER package? â†’ [HE4THER-DS4-Windows](https://github.com/He4TheR-Dev/HE4THER-DS4-Windows)
+Looking for the lighter HE4THER package? → [HE4THER-DS4-Windows](https://github.com/He4TheR-Dev/HE4THER-DS4-Windows)
 
 ---
 
@@ -21,12 +21,12 @@ Looking for the lighter HE4THER package? â†’ [HE4THER-DS4-Windows](https://
 
 | | Classic DS4Windows | **HE4THER HS** |
 |---|---|---|
-| Controller â†’ Xbox mapping | Yes | Yes |
+| Controller → Xbox mapping | Yes | Yes |
 | Base version | 3.3.3 | **3.3.3 custom** |
-| Extra macro window | No | **Yes â€” FPS-focused macro panel** |
-| Macro engine | â€” | `CustomMacroBase` + `CustomMacroFactory` |
-| Extra UI layer | â€” | `DS4WinWPF.UI` |
-| Advanced modules | â€” | OpenCV / OCR stack (optional heavy runtimes) |
+| Extra macro window | No | **Yes — FPS-focused macro panel** |
+| Macro engine | — | `CustomMacroBase` + `CustomMacroFactory` |
+| Extra UI layer | — | `DS4WinWPF.UI` |
+| Advanced modules | — | OpenCV / OCR stack (optional heavy runtimes) |
 
 Plug in DualShock / DualSense. Map like DS4Windows. Then open the **extra macro window** to build FPS macros the classic build never had.
 
@@ -61,7 +61,7 @@ This Git repo keeps docs / license light. The playable package ships on **Releas
 
 ### Fair play note
 
-Macros can violate some gamesâ€™ Terms of Service â€” especially online competitive titles. Use responsibly on titles/modes that allow them. You are responsible for how you use this software.
+Macros can violate some games' Terms of Service — especially online competitive titles. Use responsibly on titles/modes that allow them. You are responsible for how you use this software.
 
 ---
 
@@ -75,13 +75,13 @@ Some OCR / Paddle native files are **> 100 MB** and cannot live in a normal Git 
 | `Sdcb.PaddleOCR.Models.LocalV3.dll` | ~132 MB | Not included |
 | `Sdcb.PaddleOCR.Models.LocalV4.dll` | ~123 MB | Not included |
 
-Core app + macro UI ship in this repository. If you need the full local OCR/Paddle stack, keep those files next to the build from your local HS package (or ask for a Release asset later).
+Core app + macro UI ship via the Release ZIP. If you need the full local OCR/Paddle stack, keep those files next to the build from your local HS package.
 
 ---
 
 ## Respect for the original project
 
-This is a **custom / advanced fork-style distribution** of official DS4Windows â€” not a claim of original ownership of the DS4Windows engine.
+This is a **custom / advanced fork-style distribution** of official DS4Windows — not a claim of original ownership of the DS4Windows engine.
 
 - Official upstream (archived, final **v3.3.3**): https://github.com/Ryochan7/DS4Windows  
 - Earlier lineage: https://github.com/Jays2Kings/DS4Windows  
@@ -110,8 +110,6 @@ See [LICENSE](LICENSE), [NOTICE](NOTICE), and [COPYRIGHT](COPYRIGHT).
 ---
 
 <p align="center">
-  <b>Official DS4Windows core Â· HE4THER HS advanced cut</b><br/>
+  <b>Official DS4Windows core · HE4THER HS advanced cut</b><br/>
   Extra macro window. Built for FPS. Respect the original.
 </p>
-
-
